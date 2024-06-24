@@ -1,2 +1,2 @@
 # ColoresAleatorios
-game html
+Miles de colores con un "clic"
